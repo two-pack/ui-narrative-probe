@@ -1,0 +1,13 @@
+{
+  "name": "ui-narrative-probe",
+  "description": "Generate diverse persona narratives from UI to verify whether intended use cases are realized",
+  "version": "0.1.0",
+  "commands": [
+    "./commands/run.md"
+  ],
+  "agents": [
+    "./agents/explore-agent.md",
+    "./agents/persona-agent.md",
+    "./agents/narrative-agent.md"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ui-narrative-probe",
+  "description": "Generate diverse persona narratives from UI to verify whether intended use cases are realized",
+  "owner": { "name": "two-pack" },
+  "plugins": [
+    {
+      "name": "ui-narrative-probe",
+      "source": "./",
+      "description": "Generate diverse persona narratives from UI to verify whether intended use cases are realized",
+      "category": "testing"
+    }
+  ]
+}
